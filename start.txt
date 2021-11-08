@@ -1,1 +1,1 @@
-Test Fit Quick Start demo
+Test Git Quick Start demos.
